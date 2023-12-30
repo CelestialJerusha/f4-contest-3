@@ -1,0 +1,17 @@
+
+.container{
+    width: 100%;
+    display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 20px;
+  background-color: black;
+  margin-top: 20px;
+}
+.sub-container{
+    width: 30vw;
+    padding: 10px;
+}
+img{
+    width: 30vw;
+    height: 20vw;
+}
